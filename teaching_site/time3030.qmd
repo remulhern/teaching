@@ -1,0 +1,20 @@
+---
+title: "Time & Location"
+---
+
+## Lecture
+
+-   **Meeting time:** M/W 10:40 – 11:30 a.m.
+
+-   **Location:** SEEC N136
+
+## Recitations
+
+You should be enrolled in one of these:
+
+|             |                          |              |
+|-------------|--------------------------|--------------|
+| **Section** | **Time**                 | **Location** |
+| Section 011 | Th 8:30 – 9:20 a.m.      | SEEC N126    |
+| Section 012 | Th 4:05 – 4:55 p.m.      | SEEC S125    |
+| Section 013 | F 10:40 – 11:30 a.m**.** | SEEC N129    |

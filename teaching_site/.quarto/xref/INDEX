@@ -1,0 +1,32 @@
+{
+  "index.qmd": {
+    "index.html": "2c75f1c2"
+  },
+  "about.qmd": {
+    "about.html": "0d47b9e3"
+  },
+  "envs3030.qmd": {
+    "envs3030.html": "37231580"
+  },
+  "envs4800.qmd": {
+    "envs4800.html": "c3230483"
+  },
+  "instructor3030.qmd": {
+    "instructor3030.html": "730fc399"
+  },
+  "instructor4800.qmd": {
+    "instructor4800.html": "dc471e32"
+  },
+  "404.qmd": {
+    "404.html": "8b59f511"
+  },
+  "time3030.qmd": {
+    "time3030.html": "49d42f3e"
+  },
+  "time4800.qmd": {
+    "time4800.html": "9c7b9736"
+  },
+  "text3030.qmd": {
+    "text3030.html": "662ac23d"
+  }
+}

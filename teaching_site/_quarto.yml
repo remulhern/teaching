@@ -1,0 +1,51 @@
+project:
+  type: website
+
+website:
+  title: "R. Mulhern"
+  navbar:
+    search: true
+    
+    tools: 
+      - icon: github
+        href: https://github.com/remulhern
+      - icon: substack
+        href: https://www.equalwaterlab.com/ 
+        
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "ENVS 3030"
+        href: envs3030.qmd
+      - text: "ENVS 4800"
+        href: envs4800.qmd
+        
+  sidebar:
+    - title: "ENVS 3030"
+      #style: "docked"
+      search: true
+      contents:
+        - envs3030.qmd
+        - time3030.qmd
+        - text3030.qmd
+
+    - title: "ENVS 4800"
+      contents:
+        - envs4800.qmd
+        - time4800.qmd
+        # navigation items
+        
+  page-footer: 
+    left: "Copyright 2025, Riley Mulhern" 
+
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+editor: visual
+
