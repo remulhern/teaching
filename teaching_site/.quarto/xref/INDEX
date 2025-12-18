@@ -28,5 +28,74 @@
   },
   "text3030.qmd": {
     "text3030.html": "662ac23d"
+  },
+  "info3030.qmd": {
+    "info3030.html": "3beaacac"
+  },
+  "objectives3030.qmd": {
+    "objectives3030.html": "d55f3ee6"
+  },
+  "assignments3030.qmd": {
+    "assignments3030.html": "dbb745ff"
+  },
+  "3030/assignments3030.qmd": {
+    "assignments3030.html": "0cb420ea"
+  },
+  "3030/envs3030.qmd": {
+    "envs3030.html": "883d543d"
+  },
+  "3030/info3030.qmd": {
+    "info3030.html": "e6674804"
+  },
+  "3030/objectives3030.qmd": {
+    "objectives3030.html": "7049e9f0"
+  },
+  "4800/envs4800.qmd": {
+    "envs4800.html": "8d2bdb8d"
+  },
+  "3030/policies3030.qmd": {
+    "policies3030.html": "55f26fcb"
+  },
+  "3030/assignments.qmd": {
+    "assignments.html": "a3cebc81"
+  },
+  "3030/expectations.qmd": {
+    "expectations.html": "1fde1b00"
+  },
+  "3030/info.qmd": {
+    "info.html": "15fb967f"
+  },
+  "3030/objectives.qmd": {
+    "objectives.html": "53d23671"
+  },
+  "policies.qmd": {
+    "policies.html": "18b23008"
+  },
+  "3030/schedule.qmd": {
+    "schedule.html": "c81bf4b0"
+  },
+  "4800/assignments.qmd": {
+    "assignments.html": "c4423e01"
+  },
+  "4800/expectations.qmd": {
+    "expectations.html": "f0b36c33"
+  },
+  "4800/info.qmd": {
+    "info.html": "c2996a91"
+  },
+  "4800/objectives.qmd": {
+    "objectives.html": "c9fdb0df"
+  },
+  "4800/schedule.qmd": {
+    "schedule.html": "625b66ed"
+  },
+  "3030/schedule_test.qmd": {
+    "schedule_test.html": "7726ae84"
+  },
+  "3030/schedule3030_spring.qmd": {
+    "schedule3030_spring.html": "8fd12be8"
+  },
+  "4800/schedule4800_spring.qmd": {
+    "schedule4800_spring.html": "4482abf0"
   }
 }

@@ -11,29 +11,30 @@ website:
       - icon: github
         href: https://github.com/remulhern
       - icon: substack
-        href: https://www.equalwaterlab.com/ 
+        href: https://www.equalwaterlab.com/
+      - text: "{{{< ai google-scholar >}}}"
+        href: https://scholar.google.com/citations?user=h68E0NIAAAAJ&hl=en 
         
     left:
       - text: "Home"
         href: index.qmd
       - text: "ENVS 3030"
-        href: envs3030.qmd
+        href: 3030/envs3030.qmd
       - text: "ENVS 4800"
-        href: envs4800.qmd
+        href: 4800/envs4800.qmd
         
   sidebar:
     - title: "ENVS 3030"
       #style: "docked"
       search: true
       contents:
-        - envs3030.qmd
-        - time3030.qmd
-        - text3030.qmd
+        - 3030/envs3030.qmd
+        - 3030/schedule3030_spring.qmd
 
     - title: "ENVS 4800"
       contents:
-        - envs4800.qmd
-        - time4800.qmd
+        - 4800/envs4800.qmd
+        - 4800/schedule4800_spring.qmd
         # navigation items
         
   page-footer: 
@@ -42,9 +43,9 @@ website:
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
+    #theme:
+    #  - cosmo
+    #  - brand
     css: styles.css
     toc: true
 
