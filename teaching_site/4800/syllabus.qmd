@@ -99,11 +99,11 @@ You will be evaluated based on your participation in class, the blog post assign
 +--------------------------------------------------------+----------------------+
 | Office hours visit                                     | 1 point              |
 +--------------------------------------------------------+----------------------+
-| Class attendance and active engagement                 | 5 points             |
+| Class attendance and active engagement                 | 10 points            |
 +--------------------------------------------------------+----------------------+
-| Graded in-class writing assignment (5 points each)     | 25 points            |
+| Graded in-class writing assignment (3 points each)     | 18 points            |
 +--------------------------------------------------------+----------------------+
-| Lead in water sample collection & analysis             | 4 points             |
+| Lead in water sample collection & analysis             | 6 points             |
 +--------------------------------------------------------+----------------------+
 | ##### **Emerging Contaminant Blog Post**               | ##### **15 points**  |
 +--------------------------------------------------------+----------------------+
