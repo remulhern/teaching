@@ -105,6 +105,7 @@ tbl-colwidths: [20,20,60]
 
 +----------------------------+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Monday, February 23**    | Carcinogens | -   [**Read:**]{.underline} Steingraber. “Chapter 9: water.” 2010. In: *Living Downstream*.                                                                                                                                                      |
+|                            |             | -   [In class activity](https://o365coloradoedu-my.sharepoint.com/:p:/g/personal/rimu9311_colorado_edu/IQB6Kyf99M_QQ7Pvd0ck_z1ZAWcg_LJnmRi_VrnDJ9KoPjI?e=oEmvtg)                                                                                 |
 +----------------------------+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 | **Wednesday, February 25** | Lead        | -   [**Read**]{.underline}**:** Hanna-Attisha et al. “Elevated Blood Lead Levels in Children Associated With the Flint Drinking Water Crisis: A Spatial Analysis of Risk and Public Health Response.” 2016. *American Journal of Public Health.* |
 +----------------------------+-------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
@@ -113,19 +114,19 @@ tbl-colwidths: [20,20,60]
 
 ### Week 8
 
-+------------------------+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Monday, March 2**    | Lead | -   1st half of class to bring water samples for analysis                                                                                                                                                |
-|                        |      |                                                                                                                                                                                                          |
-|                        |      | -   [**1st half of class read**]{.underline}**:** Adhikara et al. “Influence of point-of-use dispensers on lead level assessment in drinking water of a lead pipe-free campus.” 2022. *npj Clean Water*. |
-|                        |      |                                                                                                                                                                                                          |
-|                        |      | -   In-class activity - Develop Part 1 of EHS results report                                                                                                                                             |
-+------------------------+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Wednesday, March 4** | Lead | -   2nd half of class to bring water samples for analysis                                                                                                                                                |
-|                        |      |                                                                                                                                                                                                          |
-|                        |      | -   [**2nd half of class read**]{.underline}**:** Adhikara et al. “Influence of point-of-use dispensers on lead level assessment in drinking water of a lead pipe-free campus.” 2022. *npj Clean Water*. |
-|                        |      |                                                                                                                                                                                                          |
-|                        |      | -   In-class activity - Develop Part 2 of EHS results report                                                                                                                                             |
-+------------------------+------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
++------------------------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Monday, March 2**    | Lead   | -   1st half of class to bring water samples for analysis                                                                                                                                                |
+|                        |        |                                                                                                                                                                                                          |
+|                        |        | -   [**1st half of class read**]{.underline}**:** Adhikara et al. “Influence of point-of-use dispensers on lead level assessment in drinking water of a lead pipe-free campus.” 2022. *npj Clean Water*. |
+|                        |        |                                                                                                                                                                                                          |
+|                        |        | -   In-class activity - Develop Part 1 of EHS results report                                                                                                                                             |
++------------------------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Wednesday, March 4** | Lead   | -   2nd half of class to bring water samples for analysis                                                                                                                                                |
+|                        |        |                                                                                                                                                                                                          |
+|                        |        | -   [**2nd half of class read**]{.underline}**:** Adhikara et al. “Influence of point-of-use dispensers on lead level assessment in drinking water of a lead pipe-free campus.” 2022. *npj Clean Water*. |
+|                        |        |                                                                                                                                                                                                          |
+|                        |        | -   In-class activity - Develop Part 2 of EHS results report                                                                                                                                             |
++------------------------+--------+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : {.hover}
 
@@ -148,11 +149,11 @@ tbl-colwidths: [20,20,60]
 
 ### Week 10
 
-+-------------------------+--------------+----------+
-| **Monday, March 16**    | SPRING BREAK | -   None |
-+-------------------------+--------------+----------+
-| **Wednesday, March 18** | SPRING BREAK | -   None |
-+-------------------------+--------------+----------+
++-------------------------+--------------+-------------+
+| **Monday, March 16**    | SPRING BREAK | -   None    |
++-------------------------+--------------+-------------+
+| **Wednesday, March 18** | SPRING BREAK | -   None    |
++-------------------------+--------------+-------------+
 
 : {.hover}
 
