@@ -205,30 +205,34 @@ tbl-colwidths: [20,20,60]
 
 ### Week 14
 
-+-------------------------+-----------------+---------------------------------------------------------------------------------+
-| **Monday, April 13**    | POU/POE Systems | -   [**Read:**]{.underline} TBD                                                 |
-+-------------------------+-----------------+---------------------------------------------------------------------------------+
-| **Wednesday, April 15** | Pick a Question | -   WSP Lightning Talk slides [**due**]{.underline} Sunday April 19 by midnight |
-+-------------------------+-----------------+---------------------------------------------------------------------------------+
++-------------------------+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Monday, April 13**    | POU/POE Systems | -   [**Read:**]{.underline}                                                                                                                                                         |
+|                         |                 |     -   Mulhern. "[Should I filter my water?](https://www.equalwaterlab.com/p/should-i-filter-my-water)" 2025.                                                                      |
+|                         |                 |     -   Mulhern et al. "User experience of point-of-use water treatment for private wells in North Carolina: Implications for outreach and well stewardship." 2022.                 |
++-------------------------+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Wednesday, April 15** | Pick a Question | -   Sign up for a question [here](https://o365coloradoedu-my.sharepoint.com/:x:/g/personal/rimu9311_colorado_edu/IQBLs9YtNN3nTq3TV-eAB_tlATAZV43E5LQZF0DvAPUrpzk)                   |
+|                         |                 | -   Create one slide answering your question [here](https://o365coloradoedu-my.sharepoint.com/:p:/g/personal/rimu9311_colorado_edu/IQAMQdtKqaeKTJtSGiOKR-c8Adly8OSOm7hPq2J6M8nMUs0) |
+|                         |                 | -   WSP Lightning Talk slides [**due**]{.underline} Sunday April 19 by midnight                                                                                                     |
++-------------------------+-----------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : {.hover}
 
 ### Week 15
 
-+-------------------------+------------------------------+------------------+
-| **Monday, April 20**    | Lightning Talk Presentations |                  |
-+-------------------------+------------------------------+------------------+
-| **Wednesday, April 22** | Lighting Talk Presentations  |                  |
-+-------------------------+------------------------------+------------------+
++-------------------------+------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Monday, April 20**    | Lightning Talk Presentations | Sign up [here](https://o365coloradoedu-my.sharepoint.com/:x:/g/personal/rimu9311_colorado_edu/IQBczEjbMFz1T5poMeDgmF7cAYpXAiYHEBr6-uKC97G16RE) |
++-------------------------+------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Wednesday, April 22** | Lighting Talk Presentations  | Sign up [here](https://o365coloradoedu-my.sharepoint.com/:x:/g/personal/rimu9311_colorado_edu/IQBczEjbMFz1T5poMeDgmF7cAYpXAiYHEBr6-uKC97G16RE) |
++-------------------------+------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : {.hover}
 
 ### Week 16
 
-+-------------------------+------------------------------+-------------------------------------------------------------------+
-| **Wednesday, April 29** | Final Exam Period            | -   [**Due:**]{.underline} Final written Water Safety Plan report |
-|                         |                              |                                                                   |
-| 4:30 - 7:00 p.m.        | Lightning Talk Presentations |                                                                   |
-+-------------------------+------------------------------+-------------------------------------------------------------------+
++-------------------------+------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
+| **Wednesday, April 29** | Final Exam Period            | -   Sign up [here](https://o365coloradoedu-my.sharepoint.com/:x:/g/personal/rimu9311_colorado_edu/IQBczEjbMFz1T5poMeDgmF7cAYpXAiYHEBr6-uKC97G16RE) |
+|                         |                              | -   [**Due:**]{.underline} Final written Water Safety Plan report                                                                                  |
+| 4:30 - 7:00 p.m.        | Lightning Talk Presentations |                                                                                                                                                    |
++-------------------------+------------------------------+----------------------------------------------------------------------------------------------------------------------------------------------------+
 
 : {.hover}
