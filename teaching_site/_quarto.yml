@@ -6,6 +6,7 @@ website:
   title: "R. Mulhern"
   navbar:
     search: true
+  google-analytics: "G-ZMYSDL4HQ8"
     
     tools: 
       - icon: github
