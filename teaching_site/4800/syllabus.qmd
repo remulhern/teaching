@@ -1,7 +1,11 @@
 ---
 title: "Syllabus"
 subtitle: "ENVS 4800 | Water Quality & Health Risks | Spring 2026"
-toc: true
+format: 
+  html:
+    toc: true
+  pdf: default
+format-links: [pdf]
 ---
 
 > “*Our water resources, more perhaps than any other, illustrate the interaction of all parts of the environment... Everything that man himself injects into the biosphere - chemical, biological or physical - can ultimately find its way into the earth's water*.”
